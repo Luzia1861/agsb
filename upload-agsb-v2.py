@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "luzia"         # 用户名
 UUID = "6692472c-aa1b-4d52-b982-ba72ed38648a"                     # UUID，留空则自动生成
 PORT = 31618                   # Vmess端口，留空或0则自动生成
-DOMAIN = "st.lz1861.nyc.mn"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiOTQ3YmIzMjRiOWMzNmI3NDNmODNiNDhhMmU0MmZiYzgiLCJ0IjoiZjE3NzcwM2EtMmFkZi00ZmJmLTg0YTUtODNmYTFkNDYxNDg5IiwicyI6Ik5qQmpNemhrTkRRdE1UWmhOaTAwWWpnM0xXSXpZekF0TVdNM1lXVmxOekZoTXpNNSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "choreo.lz1861.nyc.mn"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiOTQ3YmIzMjRiOWMzNmI3NDNmODNiNDhhMmU0MmZiYzgiLCJ0IjoiMDIxYWRhMWUtNGY3My00NjI0LTk4ZmItMzQxOTBjNjMyNDJhIiwicyI6IllUTmxNRGcxWXpRdE1EVXdPQzAwTW1JMUxXRTNaVEV0TnpsbU16azRNVEEwWkRjMiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
